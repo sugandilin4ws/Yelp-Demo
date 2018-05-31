@@ -315,14 +315,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1527738135004,
             "changeTime": 1527738135004,
-            "contentHash": "dea970d4344d2d234a0271fd199d8e6d645c28d1"
+            "contentHash": "dea970d4344d2d234a0271fd199d8e6d645c28d1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -562,16 +562,15 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
             "isDirectory": false,
-            "size": 1298,
-            "modifiedTime": 1527736253571,
-            "changeTime": 1527736253571,
-            "contentHash": "9d4109cc3aae80ee9285d82fd779c81adf4f07a9",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 1298,
+            "modifiedTime": 1527740102662,
+            "changeTime": 1527740102662,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "1d500c92d336bc81db360ef4db37d95fb2cbca99"
         }
     ],
     [
@@ -937,27 +936,27 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6571,
             "modifiedTime": 1527738134996,
             "changeTime": 1527738134996,
-            "contentHash": "bf6b3223e81baf11156f574c49b181768fe7c596"
+            "contentHash": "bf6b3223e81baf11156f574c49b181768fe7c596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6571,
             "modifiedTime": 1527738135005,
             "changeTime": 1527738135005,
-            "contentHash": "dc7e4fa3e28442992b2c09957cc6aa1345f1d3f0"
+            "contentHash": "dc7e4fa3e28442992b2c09957cc6aa1345f1d3f0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
