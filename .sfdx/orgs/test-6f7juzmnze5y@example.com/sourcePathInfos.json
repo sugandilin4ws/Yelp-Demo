@@ -32,14 +32,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1527669580668,
             "changeTime": 1527669580668,
-            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2"
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -213,104 +213,103 @@
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1527669031615,
-            "changeTime": 1527669031615,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "modifiedTime": 1527736207680,
+            "changeTime": 1527736207680,
+            "contentHash": "8bfc6131607f24313b4dc7415efd0b72eeb1f8d5",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages\\test.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages\\test.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 698,
             "modifiedTime": 1527669580652,
             "changeTime": 1527669580652,
-            "contentHash": "90582ce407894637c374c7f7f49ca07c688f3f5b"
+            "contentHash": "90582ce407894637c374c7f7f49ca07c688f3f5b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\tabs\\test.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\tabs\\test.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1527669580668,
             "changeTime": 1527669580668,
-            "contentHash": "a9437a051ac63954198c5b0da91fab5d004ac0f5"
+            "contentHash": "a9437a051ac63954198c5b0da91fab5d004ac0f5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 905,
             "modifiedTime": 1527669580668,
             "changeTime": 1527669580668,
-            "contentHash": "2af73f180c7ff60c13e2eaa6e9c6ce9a8db92788"
+            "contentHash": "2af73f180c7ff60c13e2eaa6e9c6ce9a8db92788",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4623,
             "modifiedTime": 1527669580683,
             "changeTime": 1527669580683,
-            "contentHash": "0d9dc4f6ad017430a43d979426282044a2c24ed3"
+            "contentHash": "0d9dc4f6ad017430a43d979426282044a2c24ed3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4623,
             "modifiedTime": 1527669580683,
             "changeTime": 1527669580683,
-            "contentHash": "0d9dc4f6ad017430a43d979426282044a2c24ed3"
+            "contentHash": "0d9dc4f6ad017430a43d979426282044a2c24ed3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4961,
             "modifiedTime": 1527669580683,
             "changeTime": 1527669580683,
-            "contentHash": "548d627909980be03a74a06b2e8c102b4f6e9abd"
+            "contentHash": "548d627909980be03a74a06b2e8c102b4f6e9abd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17679,
             "modifiedTime": 1527669580704,
             "changeTime": 1527669580704,
-            "contentHash": "8f5822d5543fdb451204b148e0ec9c6b0563700d"
+            "contentHash": "8f5822d5543fdb451204b148e0ec9c6b0563700d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -321,48 +320,644 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1527669580652,
-            "changeTime": 1527669580652,
-            "contentHash": "d4cd34a4a749edfc76245318c57f711e7c578e89"
+            "modifiedTime": 1527738135004,
+            "changeTime": 1527738135004,
+            "contentHash": "dea970d4344d2d234a0271fd199d8e6d645c28d1"
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1527669580652,
             "changeTime": 1527669580652,
-            "contentHash": "deba2208a385191300c443e330b1d38557e7fddb"
+            "contentHash": "deba2208a385191300c443e330b1d38557e7fddb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\applications",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1527669580668,
             "changeTime": 1527669580668,
-            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065"
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1527669580704,
             "changeTime": 1527669580704,
-            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527736253560,
+            "changeTime": 1527736253560,
+            "contentHash": "2f41b038d2435dfc98a2e74fe75379ad5734d2c3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527736253561,
+            "changeTime": 1527736253561,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527736253610,
+            "changeTime": 1527736253610,
+            "contentHash": "23dc5dce7c50ee5d687a95170c9787e18f8751d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527736253588,
+            "changeTime": 1527736253588,
+            "contentHash": "2f23212b50a83c6f1bd3b906c82b2cbaaceee0ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527736253590,
+            "changeTime": 1527736253590,
+            "contentHash": "b199bee8ee4e4bc30bb7c1f8f8a231b5e91844e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1527736253590,
+            "changeTime": 1527736253590,
+            "contentHash": "fc2433a634f223435a01da80934238039f724b21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1527736253591,
+            "changeTime": 1527736253591,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\Storage",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\Storage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527736253564,
+            "changeTime": 1527736253564,
+            "contentHash": "2a5d896e5ac922b48d10f041aa82a83416412050",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+            "isDirectory": false,
+            "size": 917,
+            "modifiedTime": 1527736253563,
+            "changeTime": 1527736253563,
+            "contentHash": "6aabf819a1e1b796bfcdd5602e5d72994b00ac1c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1527736253565,
+            "changeTime": 1527736253565,
+            "contentHash": "67ed1f5733b1ce65f40dc2cd4dc35a8bd63a6b3c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527736253579,
+            "changeTime": 1527736253579,
+            "contentHash": "55427221cf793ceb19d5da9d90a7d8a473859018",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+            "isDirectory": false,
+            "size": 5483,
+            "modifiedTime": 1527736253567,
+            "changeTime": 1527736253567,
+            "contentHash": "2e432c4f45ae25d2ffe0f8550edaa136ce33cd72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1527736253569,
+            "changeTime": 1527736253569,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+            "isDirectory": false,
+            "size": 1298,
+            "modifiedTime": 1527736253571,
+            "changeTime": 1527736253571,
+            "contentHash": "9d4109cc3aae80ee9285d82fd779c81adf4f07a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1527736253573,
+            "changeTime": 1527736253573,
+            "contentHash": "1ab870c096696a3c08082e2416ed2b2f4ebbf4d1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+            "isDirectory": false,
+            "size": 1021,
+            "modifiedTime": 1527736253575,
+            "changeTime": 1527736253575,
+            "contentHash": "cd1ea0dfa3cf906fdec342699622ed85ed00d1af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+            "isDirectory": false,
+            "size": 1085,
+            "modifiedTime": 1527736253577,
+            "changeTime": 1527736253577,
+            "contentHash": "bf9279ede7dc946bed67264287c14d6108974cf7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+            "isDirectory": false,
+            "size": 5924,
+            "modifiedTime": 1527736253578,
+            "changeTime": 1527736253578,
+            "contentHash": "84ba6ce9a3e20fbcb0e9f55545eb1e6d13bee40d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+            "isDirectory": false,
+            "size": 738,
+            "modifiedTime": 1527736253580,
+            "changeTime": 1527736253580,
+            "contentHash": "d665b7d29b11f2eb8c02b6373c06e47346705312",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpService",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpService",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527736253587,
+            "changeTime": 1527736253587,
+            "contentHash": "d47e5e9de70c9305eaef7db09904879e88538027",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+            "isDirectory": false,
+            "size": 832,
+            "modifiedTime": 1527736253582,
+            "changeTime": 1527736253582,
+            "contentHash": "fae52a427064a301ace9fc689e9cf859b1de43e6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1527736253583,
+            "changeTime": 1527736253583,
+            "contentHash": "20374ea20c0da58fb533b70b688c82384c590c03",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+            "isDirectory": false,
+            "size": 213,
+            "modifiedTime": 1527736253586,
+            "changeTime": 1527736253586,
+            "contentHash": "82df0e7b416e9a9a797701c72b510d71d8909b80",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+            "isDirectory": false,
+            "size": 2042,
+            "modifiedTime": 1527736253588,
+            "changeTime": 1527736253588,
+            "contentHash": "74d2133713841f14daa33d3c87fdeb29e09b4ca3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527736253606,
+            "changeTime": 1527736253606,
+            "contentHash": "413cc000459baf4a60b8da8b6e618c128d015725",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+            "isDirectory": false,
+            "size": 672,
+            "modifiedTime": 1527736253594,
+            "changeTime": 1527736253594,
+            "contentHash": "de1151d4a6d414d95b7bea943be4d2406363ff54",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1527736253595,
+            "changeTime": 1527736253595,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+            "isDirectory": false,
+            "size": 829,
+            "modifiedTime": 1527736253598,
+            "changeTime": 1527736253598,
+            "contentHash": "854a69c44213389336401c045649d80bd0cb59c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1527736253600,
+            "changeTime": 1527736253600,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+            "isDirectory": false,
+            "size": 1061,
+            "modifiedTime": 1527736253601,
+            "changeTime": 1527736253601,
+            "contentHash": "b948c3afe75b12d147b48bd2e22496000622a4ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1527736253604,
+            "changeTime": 1527736253604,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+            "isDirectory": false,
+            "size": 1143,
+            "modifiedTime": 1527736253606,
+            "changeTime": 1527736253606,
+            "contentHash": "648d69af87ee21de3e02c7927702ad1c425a60c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1527736253607,
+            "changeTime": 1527736253607,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\remoteSiteSettings",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\remoteSiteSettings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527736253608,
+            "changeTime": 1527736253608,
+            "contentHash": "953a648bdddc5b63ac59255b53b662d2e89d3a89",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 274,
+            "modifiedTime": 1527736253609,
+            "changeTime": 1527736253609,
+            "contentHash": "a0ad435300a759ecf99cdd0add238f95edc395e4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527736253634,
+            "changeTime": 1527736253634,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+            "isDirectory": false,
+            "size": 242945,
+            "modifiedTime": 1527736253634,
+            "changeTime": 1527736253634,
+            "contentHash": "5575820f24c0d7a9a1ad445847ba728dde6be3bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1527736253635,
+            "changeTime": 1527736253635,
+            "contentHash": "aa85ab19e7ac0f4c7ee86646e20a759ac6219897",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1527738134996,
+            "changeTime": 1527738134996,
+            "contentHash": "bf6b3223e81baf11156f574c49b181768fe7c596"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Yelp Demo\\YelpDemo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1527738135005,
+            "changeTime": 1527738135005,
+            "contentHash": "dc7e4fa3e28442992b2c09957cc6aa1345f1d3f0"
         }
     ]
 ]
