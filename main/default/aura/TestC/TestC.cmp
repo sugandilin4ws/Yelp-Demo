@@ -1,5 +1,5 @@
 <aura:component implements="flexipage:availableForAllPageTypes" access="global">    
-	<h2>Test Component C</h2> 
+	<h2>Test1 Component C</h2> 
 	<hr/>
 	<h2>To see how it is functioning</h2> 
 	<hr/>
